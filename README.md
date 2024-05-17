@@ -1,6 +1,6 @@
 - I'm @TechologicallyAdvancedMango
 - I like HTML/JS/CSS
-- check out github.com/TechnologicallyAdvancedMango/mangoclicker 
+- check out [my game](https://github.com/TechnologicallyAdvancedMango/mangoclicker )
 
 <!---
 TechnologicallyAdvancedMango/TechnologicallyAdvancedMango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
