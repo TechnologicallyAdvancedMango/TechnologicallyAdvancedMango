@@ -1,5 +1,5 @@
 - I'm @TechologicallyAdvancedMango
-- I like HTML/JS/CSS
+- I like `HTML/JS/CSS`
 - check out [my game](https://github.com/TechnologicallyAdvancedMango/mangoclicker )
 
 <!---
