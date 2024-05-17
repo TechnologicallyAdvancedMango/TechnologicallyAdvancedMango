@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @TechnologicallyAdvancedMango
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning html
-
+- I'm @TechologicallyAdvancedMango
+- I like HTML/JS/CSS
+- check out TechnologicallyAdvancedMango/mangoclicker
 
 <!---
 TechnologicallyAdvancedMango/TechnologicallyAdvancedMango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
